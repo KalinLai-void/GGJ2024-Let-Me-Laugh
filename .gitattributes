@@ -1,0 +1,5 @@
+Content/_GGJ2024/Blueprint/Character/Model/Human_01_facial.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_GGJ2024/Blueprint/Character/Model/Human_01_walk.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_GGJ2024/Blueprint/Character/Model/Human_01_standpose.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_GGJ2024/Blueprint/Character/Model/Human_01_standpose_Anim.uasset filter=lfs diff=lfs merge=lfs -text
+Content/_GGJ2024/Map/GameMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
