@@ -25,6 +25,20 @@ Developed with Unreal Engine 5
 	- 顯卡建議10系列以上、RAM建議16GB以上。
 	- 渲染沒在管的，超耗效能XD
 
+### 開發團隊
+- 企劃為小組共同籌劃：[Kalin](https://globalgamejam.org/users/kalinkonta)、[希雨](https://globalgamejam.org/users/xiyu)、[阿傑（Eric Chou）](https://globalgamejam.org/users/choueric)、[浩哥](https://globalgamejam.org/users/haogelive)
+	- 企劃原案：[Kalin](https://globalgamejam.org/users/kalinkonta)
+	- 文本：[希雨](https://globalgamejam.org/users/xiyu)
+- 專案管理/版本控制：[Kalin](https://globalgamejam.org/users/kalinkonta)
+- 程式：[Kalin](https://globalgamejam.org/users/kalinkonta)、[浩哥](https://globalgamejam.org/users/haogelive)
+- 3D美術-人物（含動畫）：[阿傑（Eric Chou）](https://globalgamejam.org/users/choueric)
+- 3D美術-物品：[希雨](https://globalgamejam.org/users/xiyu)
+- 場景建置微調、燈光渲染：[希雨](https://globalgamejam.org/users/xiyu)
+	- 場景素材：[來自UE Marketplace「Archviz Interior vol.3」](https://www.unrealengine.com/marketplace/en-US/product/archviz-interior-vol-3?sessionInvalidated=true)
+- 聲音剪輯：[希雨](https://globalgamejam.org/users/xiyu)
+	- 老婆聲音來源：使用[文字轉語音](https://ttsmaker.com/)
+	- 迷因聲音來源：來自YouTube
+
 ---
 
 ## English Description
@@ -49,6 +63,20 @@ During the exploration, gifts are shrouded in mysterious veils, and players can 
 - **Notice: Only support Windows version, and the hardware specifications are recommended to be slightly higher-end.**
 	- Graphics card recommended GTX 10 series or above, RAM recommended 16GB or above.
 	- Our rendering isn't being managed, it's super resource-intensive, lol.
+
+### Dev. Team
+- Game Designers: [Kalin](https://globalgamejam.org/users/kalinkonta), [Sivu](https://globalgamejam.org/users/xiyu), [AJ（Eric Chou）](https://globalgamejam.org/users/choueric), [HaoGe](https://globalgamejam.org/users/haogelive)
+	- Proposal: [Kalin](https://globalgamejam.org/users/kalinkonta)
+	- Text: [Sivu](https://globalgamejam.org/users/xiyu)
+- Project Management & Version Control: [Kalin](https://globalgamejam.org/users/kalinkonta)
+- Programming：[Kalin](https://globalgamejam.org/users/kalinkonta)、[HaoGe](https://globalgamejam.org/users/haogelive)
+- 3D Art - Character (with Animation): [AJ（Eric Chou）](https://globalgamejam.org/users/choueric)
+- 3D Art - Other: [Sivu](https://globalgamejam.org/users/xiyu)
+- Scene & Light Rendering: [Sivu](https://globalgamejam.org/users/xiyu)
+	- Scene Source: [from UE Marketplace "Archviz Interior vol.3"](https://www.unrealengine.com/marketplace/en-US/product/archviz-interior-vol-3?sessionInvalidated=true)
+- Sound Clip: [Sivu](https://globalgamejam.org/users/xiyu)
+	- Wifu Source: using [Text to Speech](https://ttsmaker.com/)
+	- Meme Source: from YouTube
 
 ---
 
