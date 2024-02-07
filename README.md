@@ -7,7 +7,7 @@ Developed with Unreal Engine 5
 
 - 這是參加 Global Game Jam 2024 所開發的作品，我們是 [GGJ2024 台中會場](https://globalgamejam.org/jam-sites/2024/taizhonghuichang) 的第七組。
 - GGJ2024 的主題：Let Me Laugh
-- 作品頁面：[Find Laugh 尋笑](https://globalgamejam.org/games/2024/diqizu-5)
+- 作品頁面：[GGJ官方](https://globalgamejam.org/games/2024/diqizu-5)、[GitHub](#)、[itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
 - 做得不是很好，未來應該也不會更新了吧(?
 
 ### 遊戲簡介
@@ -46,7 +46,7 @@ Developed with Unreal Engine 5
 
 - This is the game work developed by us from Global Game Jam 2024. We are the Group 7 at [GGJ2024 台中會場](https://globalgamejam.org/jam-sites/2024/taizhonghuichang).
 - The theme of GGJ2024: Let Me Laugh
-- Game Page: [Find Laugh 尋笑](https://globalgamejam.org/games/2024/diqizu-5)
+- Game Page: [GGJ (Official)](https://globalgamejam.org/games/2024/diqizu-5)、[GitHub](#)、[itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
 - It's not done very well, and probably won't be updated in the future(?
 
 ### Game Overview
@@ -66,12 +66,12 @@ During the exploration, gifts are shrouded in mysterious veils, and players can 
 	- Our rendering isn't being managed, it's super resource-intensive, lol.
 
 ### Dev. Team
-- Game Designers: [Kalin](https://globalgamejam.org/users/kalinkonta), [Sivu](https://globalgamejam.org/users/xiyu), [AJ（Eric Chou）](https://globalgamejam.org/users/choueric), [HaoGe](https://globalgamejam.org/users/haogelive)
+- Game Designers: [Kalin](https://globalgamejam.org/users/kalinkonta), [Sivu](https://globalgamejam.org/users/xiyu), [AJ (Eric Chou)](https://globalgamejam.org/users/choueric), [HaoGe](https://globalgamejam.org/users/haogelive)
 	- Proposal: [Kalin](https://globalgamejam.org/users/kalinkonta)
 	- Text: [Sivu](https://globalgamejam.org/users/xiyu)
 - Project Management & Version Control: [Kalin](https://globalgamejam.org/users/kalinkonta)
 - Programming：[Kalin](https://globalgamejam.org/users/kalinkonta), [HaoGe](https://globalgamejam.org/users/haogelive)
-- 3D Art - Character (with Animation): [AJ（Eric Chou）](https://globalgamejam.org/users/choueric)
+- 3D Art - Character (with Animation): [AJ (Eric Chou)](https://globalgamejam.org/users/choueric)
 - 3D Art - Other: [Sivu](https://globalgamejam.org/users/xiyu)
 - Scene & Light Rendering: [Sivu](https://globalgamejam.org/users/xiyu)
 	- Scene Source: [from UE Marketplace "Archviz Interior vol.3"](https://www.unrealengine.com/marketplace/en-US/product/archviz-interior-vol-3?sessionInvalidated=true)
