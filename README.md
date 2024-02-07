@@ -8,7 +8,9 @@ Developed with Unreal Engine 5
 - 這是參加 Global Game Jam 2024 所開發的作品，我們是 [GGJ2024 台中會場](https://globalgamejam.org/jam-sites/2024/taizhonghuichang) 的第七組。
 - GGJ2024 的主題：Let Me Laugh
 - 作品頁面：[GGJ官方](https://globalgamejam.org/games/2024/diqizu-5)、[GitHub](#)、[itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
+	- 遊戲截圖放在 [itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
 - 做得不是很好，未來應該也不會更新了吧(?
+	- 此專案開源，如果有人想要修改應該可以拿去玩。 
 
 ### 遊戲簡介
 這是一款第一人稱3D探索遊戲，玩家們將扮演一個老公，為了讓悶悶不樂的老婆露出笑容，在場景中尋找能夠博取她歡心的禮物。
@@ -48,7 +50,9 @@ Developed with Unreal Engine 5
 - This is the game work developed by us from Global Game Jam 2024. We are the Group 7 at [GGJ2024 台中會場](https://globalgamejam.org/jam-sites/2024/taizhonghuichang).
 - The theme of GGJ2024: Let Me Laugh
 - Game Page: [GGJ (Official)](https://globalgamejam.org/games/2024/diqizu-5)、[GitHub](#)、[itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
+	- Game screenshot post in [itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
 - It's not done very well, and probably won't be updated in the future(?
+	- This project is Open-Source. Anyone can clone to play if you want to modify.
 
 ### Game Overview
 This is a first-person 3D exploration game where players take on the role of a husband aiming to bring a smile to his unhappy wife. To achieve this, players must explore the scene in search of gifts that can win her heart.
