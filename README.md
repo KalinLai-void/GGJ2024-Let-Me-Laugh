@@ -1,7 +1,7 @@
 # GGJ2024 - Find Laugh 尋笑
 
 Developed with Unreal Engine 5
-###### This Game only support Traditional Chinese (繁體中文), including audio and UI text.
+#### This Game only support Traditional Chinese (繁體中文), including audio and UI text.
 
 ## 中文說明
 
