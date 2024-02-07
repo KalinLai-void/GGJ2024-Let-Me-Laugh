@@ -69,7 +69,7 @@ During the exploration, gifts are shrouded in mysterious veils, and players can 
 	- Proposal: [Kalin](https://globalgamejam.org/users/kalinkonta)
 	- Text: [Sivu](https://globalgamejam.org/users/xiyu)
 - Project Management & Version Control: [Kalin](https://globalgamejam.org/users/kalinkonta)
-- Programming：[Kalin](https://globalgamejam.org/users/kalinkonta)、[HaoGe](https://globalgamejam.org/users/haogelive)
+- Programming：[Kalin](https://globalgamejam.org/users/kalinkonta), [HaoGe](https://globalgamejam.org/users/haogelive)
 - 3D Art - Character (with Animation): [AJ（Eric Chou）](https://globalgamejam.org/users/choueric)
 - 3D Art - Other: [Sivu](https://globalgamejam.org/users/xiyu)
 - Scene & Light Rendering: [Sivu](https://globalgamejam.org/users/xiyu)
