@@ -17,8 +17,8 @@ Developed with Unreal Engine 5
 - 滑鼠轉動視角
 - 滑鼠左鍵互動
 
-### 如何遊玩？
-- **右方的Releases下方**，可以看到遊戲壓縮檔。
+### 如何下載？
+- **右方的Releases下方**，可以看到遊戲壓縮檔。（[或點此](https://github.com/KalinLai-void/GGJ2024-Let-Me-Laugh/releases/tag/Find-Laugh_beta-ver.1.0.0)）
 - 下載下來，解壓縮後，點開exe檔即可遊玩。
 - **注意：僅支援Windows版本，且硬體規格建議高階一點。**
 	- 顯卡建議10系列以上、RAM建議16GB以上。
@@ -41,8 +41,8 @@ During the exploration, gifts are shrouded in mysterious veils, and players can 
 - Mouse Move to turn around player view
 - Mouse LB Click to Interact
 
-### How to Play?
-- **Under "Releases" on page's right**, you can see the game zip.
+### How to Download?
+- **Under "Releases" on page's right**, you can see the game zip. ([or click here](https://github.com/KalinLai-void/GGJ2024-Let-Me-Laugh/releases/tag/Find-Laugh_beta-ver.1.0.0))
 - Download it, and upzip it, then you can click EXE file to play!
 - **Notice: Only support Windows version, and the hardware specifications are recommended to be slightly higher-end.**
 	- Graphics card recommended GTX 10 series or above, RAM recommended 16GB or above.
