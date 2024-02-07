@@ -10,7 +10,8 @@ Developed with Unreal Engine 5
 - 作品頁面：[GGJ官方](https://globalgamejam.org/games/2024/diqizu-5)、[GitHub](#)、[itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
 	- 遊戲截圖放在 [itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
 - 做得不是很好，未來應該也不會更新了吧(?
-	- 此專案開源，如果有人想要修改應該可以拿去玩。 
+	- 此專案開源，如果有人想要修改應該可以拿去玩。
+ 	- 有些呈現的部份因為時間問題，所以沒有做完，略為可惜。
 
 ### 遊戲簡介
 這是一款第一人稱3D探索遊戲，玩家們將扮演一個老公，為了讓悶悶不樂的老婆露出笑容，在場景中尋找能夠博取她歡心的禮物。
@@ -53,6 +54,7 @@ Developed with Unreal Engine 5
 	- Game screenshot post in [itch.io](https://kalinkonta.itch.io/global-game-jam-2024-find-laugh)
 - It's not done very well, and probably won't be updated in the future(?
 	- This project is Open-Source. Anyone can clone to play if you want to modify.
+ 	- Some parts of the presentation were not completed due to time constraints, which is somewhat regrettable. 
 
 ### Game Overview
 This is a first-person 3D exploration game where players take on the role of a husband aiming to bring a smile to his unhappy wife. To achieve this, players must explore the scene in search of gifts that can win her heart.
