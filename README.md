@@ -80,7 +80,7 @@ During the exploration, gifts are shrouded in mysterious veils, and players can 
 - Programming：[Kalin](https://globalgamejam.org/users/kalinkonta), [HaoGe](https://globalgamejam.org/users/haogelive)
 - 3D Art - Character (with Animation): [AJ (Eric Chou)](https://globalgamejam.org/users/choueric)
 - 3D Art - Other: [Sivu](https://globalgamejam.org/users/xiyu)
-- 2D Art - Banner & Logo​​​：[阿傑 (Eric Chou)](https://globalgamejam.org/users/choueric)
+- 2D Art - Banner & Logo​​​：[AJ (Eric Chou)](https://globalgamejam.org/users/choueric)
 - Scene & Light Rendering: [Sivu](https://globalgamejam.org/users/xiyu)
 	- Scene Source: [from UE Marketplace "Archviz Interior vol.3"](https://www.unrealengine.com/marketplace/en-US/product/archviz-interior-vol-3?sessionInvalidated=true)
 - Sound Clip: [Sivu](https://globalgamejam.org/users/xiyu)
