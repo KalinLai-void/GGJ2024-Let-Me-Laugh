@@ -30,16 +30,16 @@ Developed with Unreal Engine 5
 	- 渲染沒在管的，超耗效能XD
 
 ### 開發團隊
-- 企劃為小組共同籌劃：[Kalin](https://globalgamejam.org/users/kalinkonta)、[希雨](https://globalgamejam.org/users/xiyu)、[阿傑（Eric Chou）](https://globalgamejam.org/users/choueric)、[浩哥](https://globalgamejam.org/users/haogelive)
+- 企劃為小組共同籌劃：[Kalin](https://globalgamejam.org/users/kalinkonta)、[希雨](https://globalgamejam.org/users/xiyu)、[阿傑（Eric Chou）](https://globalgamejam.org/users/choueric)、[皓哥](https://globalgamejam.org/users/haogelive)
 	- 企劃原案：[Kalin](https://globalgamejam.org/users/kalinkonta)
 	- 文本：[希雨](https://globalgamejam.org/users/xiyu)
 - 專案管理/版本控制：[Kalin](https://globalgamejam.org/users/kalinkonta)
-- 程式：[Kalin](https://globalgamejam.org/users/kalinkonta)、[浩哥](https://globalgamejam.org/users/haogelive)
+- 程式：[Kalin](https://globalgamejam.org/users/kalinkonta)、[皓哥](https://globalgamejam.org/users/haogelive)
 - 3D美術-人物（含動畫）：[阿傑（Eric Chou）](https://globalgamejam.org/users/choueric)
 - 3D美術-物品：[希雨](https://globalgamejam.org/users/xiyu)
 - 2D美術-遊戲封面、Logo​​​：[阿傑（Eric Chou）](https://globalgamejam.org/users/choueric)
 - 場景建置微調、燈光渲染：[希雨](https://globalgamejam.org/users/xiyu)
-	- 場景素材：[來自UE Marketplace「Archviz Interior vol.3」](https://www.unrealengine.com/marketplace/en-US/product/archviz-interior-vol-3?sessionInvalidated=true)
+	- 場景素材：[來自 UE Marketplace「Archviz Interior vol.3」](https://www.unrealengine.com/marketplace/en-US/product/archviz-interior-vol-3?sessionInvalidated=true)
 - 聲音剪輯：[希雨](https://globalgamejam.org/users/xiyu)
 	- 老婆聲音來源：使用[文字轉語音](https://ttsmaker.com/)
 	- 迷因聲音來源：來自YouTube
